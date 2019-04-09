@@ -1,7 +1,9 @@
 # SUAActivity
 Test app to show bugs with GeoJsonLayer and markers
 
-As of 4/9/2019
+(Note: you need to add a string resource with your own valid google maps api key to execute the app)
+
+As of 4/9/2019 using com.google.maps.android:android-maps-utils:0.5
 
 The app will display a map that incorporates: 
   OnMapLongClickListener to display infowindow
