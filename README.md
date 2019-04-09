@@ -1,5 +1,5 @@
 # SUAActivity
-Test app to show problems with GeoJsonLayer and markers
+Test app to show bugs with GeoJsonLayer and markers
 
 As of 4/9/2019
 
