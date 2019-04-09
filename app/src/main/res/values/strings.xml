@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SUA Activity</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="sua_property">%1$s : %2$s</string>
+    <string name="ok">OK</string>
+
+
+</resources>
+
+
