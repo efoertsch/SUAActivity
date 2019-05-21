@@ -19,7 +19,7 @@
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MapsActivity"
+        tools:context="org.soaringforecast.rasp.suaactivity.MapsActivity"
         app:layout_constraintBottom_toTopOf="@id/sua_toogle_button"/>
 
     <Button
