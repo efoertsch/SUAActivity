@@ -288,6 +288,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             if (marker.getTag() instanceof PointForecast) {
                 view.setText(((PointForecast) marker.getTag()).getForecastText());
             }
+            if (marker.getTag() instanceof Sounding) {
+                view.setText(((Sounding) marker.getTag()).getLocation());
+            }
         }
     }
 
